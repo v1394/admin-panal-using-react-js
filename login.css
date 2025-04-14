@@ -1,0 +1,95 @@
+/* Container for the registration form */
+.login{
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color:aliceblue;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top:0px;
+    box-shadow: 5px 5px 10px 10px #45a049;
+    height: 400px;
+  }
+  
+  /* Header style */
+  .c1 h2 {
+    text-align: center;
+    color:gold;
+    margin-bottom: 40px;
+    font-size: 50px;
+  }
+  
+  /* Form input styles */
+  .login label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color:black;
+    font-size: 20px;
+    margin-top: 30px;
+    
+  }
+  
+  .login input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border:cornflowerblue 1px solid;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Input focus effect */
+  .login input:focus {
+    border-color: #4CAF50;
+    outline: none;
+  }
+  
+  /* Button style */
+  .login button {
+    width: 50%;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    margin-bottom:40px;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .def
+  {
+    margin-right: 50px;
+    margin-top: 60px;
+  }
+  
+  /* Button hover effect */
+  .login button:hover {
+    background-color:darkblue;
+  }
+  
+  /* Error message styling */
+  .login div {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .c1
+  {
+    background-image:url("./fgg.jpg");
+    background-position: 200%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    /* border-radius: 50%; */
+  }
+  
+ 
+
+  
